@@ -1,0 +1,11 @@
+2016-07-12 11:52:43,700 ============================================================================================
+2016-07-12 11:52:43,700 Browser Opened Successfully with afe85a84-174d-4c58-8d7e-618e9a0b7847
+2016-07-12 11:52:43,700 Main method execusion has started...
+2016-07-12 11:52:44,881 iMax URL get successfully open
+2016-07-12 11:52:50,627 You have successfully login to iMax
+2016-07-12 11:52:56,122 Lets get started for CSC Profile sub-module
+2016-07-12 11:52:56,122 Reading data from xlsx for CSC Profile ADD functionality
+2016-07-12 11:52:56,234 Data reading functionality completed successfully
+2016-07-12 11:52:56,234 Creating CSC Profile using ADD form
+2016-07-12 11:53:02,457 CSC Profile added Successfully
+2016-07-12 11:53:02,463 Browser get closed successfully

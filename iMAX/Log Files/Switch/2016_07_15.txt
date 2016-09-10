@@ -1,0 +1,14 @@
+2016-07-15 12:30:12,243 ============================================================================================
+2016-07-15 12:30:12,243 Browser Opened Successfully with session ID : 557d5196-e644-479f-836f-3531bdc493d5
+2016-07-15 12:30:12,243 Browser capabilities : {u'rotatable': False, u'takesScreenshot': True, u'acceptSslCerts': True, u'cssSelectorsEnabled': True, u'javascriptEnabled': True, u'databaseEnabled': True, u'locationContextEnabled': True, u'platform': u'WINDOWS', u'browserName': u'firefox', u'version': u'38.0.5', u'nativeEvents': False, u'applicationCacheEnabled': True, u'webStorageEnabled': True, u'handlesAlerts': True}
+2016-07-15 12:30:12,243 Switch Module execusion has started...
+2016-07-15 12:30:12,621 iMax URL get successfully open
+2016-07-15 12:30:18,072 You have successfully login to iMax
+2016-07-15 12:30:23,170 Lets get started for CSC Profile sub-module
+2016-07-15 12:30:23,170 Reading data from xlsx for CSC Profile ADD functionality
+2016-07-15 12:30:23,207 Data reading functionality completed successfully
+2016-07-15 12:30:23,207 Creating CSC Profile using ADD form
+2016-07-15 12:30:29,242 CSC Profile added Successfully
+2016-07-15 12:30:29,243 Add functionality of CSC Profile has been done successfully
+2016-07-15 12:30:29,247 Browser Closed Successfully with session ID : 557d5196-e644-479f-836f-3531bdc493d5
+2016-07-15 12:30:29,247 ============================================================================================

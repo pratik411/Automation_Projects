@@ -1,0 +1,37 @@
+2016-07-21 19:31:29,269 ============================================================================================
+2016-07-21 19:31:29,269 Browser Opened Successfully with session ID : 59ae4b34-6602-4724-8a2f-68633d39931c
+2016-07-21 19:31:29,269 Browser capabilities : {u'rotatable': False, u'takesScreenshot': True, u'acceptSslCerts': True, u'cssSelectorsEnabled': True, u'javascriptEnabled': True, u'databaseEnabled': True, u'locationContextEnabled': True, u'platform': u'WINDOWS', u'browserName': u'firefox', u'version': u'38.0.5', u'nativeEvents': False, u'applicationCacheEnabled': True, u'webStorageEnabled': True, u'handlesAlerts': True}
+2016-07-21 19:31:29,269 Switch Module execusion has started...
+2016-07-21 19:31:30,066 iMax URL get successfully open
+2016-07-21 19:31:35,473 You have successfully login to iMax
+2016-07-21 19:31:40,553 Lets get started for CSC Profile sub-module
+2016-07-21 19:31:40,553 Reading data from xlsx file
+2016-07-21 19:31:40,584 value of Port parameter is : 7070.0
+2016-07-21 19:31:40,584 value of CSC_Profile_Name  parameter is : Automatic_internal
+2016-07-21 19:31:40,584 value of Schedular_Interval  parameter is : 60.0
+2016-07-21 19:31:40,584 value of Media_Timeout_Value parameter is : 120.0
+2016-07-21 19:31:40,584 value of Profile_Type_0internal_1external parameter is : 0.0
+2016-07-21 19:31:40,584 value of  parameter is : 
+2016-07-21 19:31:40,584 value of  parameter is : 
+2016-07-21 19:31:40,584 value of  parameter is : 
+2016-07-21 19:31:40,585 value of  parameter is : 
+2016-07-21 19:31:40,585 value of  parameter is : 
+2016-07-21 19:31:40,585 Data reading functionality completed successfully
+2016-07-21 19:31:40,585 Creating CSC Profile using ADD form
+2016-07-21 19:31:53,371 Add functionality of CSC Profile has been done successfully
+2016-07-21 19:31:58,371 Lets get started for digit rule Profile sub-module
+2016-07-21 19:31:58,371 Reading data from xlsx file
+2016-07-21 19:31:58,398 value of Digit Rule Name parameter is : Test
+2016-07-21 19:31:58,398 value of ANI Pattern parameter is : *
+2016-07-21 19:31:58,398 value of DNID pattern parameter is : *
+2016-07-21 19:31:58,398 value of Minimum DNID Length parameter is : 2.0
+2016-07-21 19:31:58,398 value of Maximum DNID Length parameter is : 16.0
+2016-07-21 19:31:58,398 value of Prepand parameter is : 1.0
+2016-07-21 19:31:58,398 value of Append parameter is : 2.0
+2016-07-21 19:31:58,398 value of Prepand parameter is : 3.0
+2016-07-21 19:31:58,398 value of Append parameter is : 4.0
+2016-07-21 19:31:58,398 value of 0Customer_1Vendor parameter is : 0.0
+2016-07-21 19:31:58,398 Data reading functionality completed successfully
+2016-07-21 19:32:14,763 Creating digit rule using ADD form
+2016-07-21 19:32:16,951 Browser Closed Successfully with session ID : 59ae4b34-6602-4724-8a2f-68633d39931c
+2016-07-21 19:32:16,951 ============================================================================================

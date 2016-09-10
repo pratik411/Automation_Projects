@@ -1,0 +1,17 @@
+2016-07-19 19:31:38,398 ============================================================================================
+2016-07-19 19:31:38,398 Browser Opened Successfully with session ID : d62dd280-993f-4fc5-9c83-8845135f723e
+2016-07-19 19:31:38,400 Browser capabilities : {u'rotatable': False, u'takesScreenshot': True, u'acceptSslCerts': True, u'cssSelectorsEnabled': True, u'javascriptEnabled': True, u'databaseEnabled': True, u'locationContextEnabled': True, u'platform': u'WINDOWS', u'browserName': u'firefox', u'version': u'38.0.5', u'nativeEvents': False, u'applicationCacheEnabled': True, u'webStorageEnabled': True, u'handlesAlerts': True}
+2016-07-19 19:31:38,400 Switch Module execusion has started...
+2016-07-19 19:31:38,964 iMax URL get successfully open
+2016-07-19 19:31:44,394 You have successfully login to iMax
+2016-07-19 19:31:49,496 Lets get started for CSC Profile sub-module
+2016-07-19 19:31:49,496 Reading data from xlsx for CSC Profile ADD functionality
+2016-07-19 19:31:49,496 Reading data from xlsx for CSC Profile ADD functionality
+2016-07-19 19:31:49,530 Data reading functionality completed successfully
+2016-07-19 19:31:49,530 Creating CSC Profile using ADD form
+2016-07-19 19:32:03,168 Add functionality of CSC Profile has been done successfully
+2016-07-19 19:32:08,168 Reading data from xlsx for digit rule ADD functionality
+2016-07-19 19:32:08,168 Reading data from xlsx for CSC Profile ADD functionality
+2016-07-19 19:32:08,184 Data reading functionality completed successfully
+2016-07-19 19:32:13,414 Browser Closed Successfully with session ID : d62dd280-993f-4fc5-9c83-8845135f723e
+2016-07-19 19:32:13,414 ============================================================================================

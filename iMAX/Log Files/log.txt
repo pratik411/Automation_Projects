@@ -1,0 +1,9 @@
+monitoring module tab is successfully get open
+company module tab is successfully get open
+product module tab is successfully get open
+switch module tab is successfully get open
+billing module tab is successfully get open
+template module tab is successfully get open
+report module tab is successfully get open
+admin module tab is successfully get open
+tools module tab is successfully get open
