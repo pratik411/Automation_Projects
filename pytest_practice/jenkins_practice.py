@@ -1,1 +1,2 @@
 print "pratik"
+print "zalak"
